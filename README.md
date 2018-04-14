@@ -6,9 +6,20 @@ http://gregoryalford.com/
 
 This repository is a challenge to create a website in five hours using google's material design and call an external api with AJAX to load data onto a homepage and a show page.
 
+### Get it running
+
 View it live on Heroku:
 
 https://fierce-reaches-10362.herokuapp.com/
+
+Or, assuming node is installed run these in order:
+
+```
+git clone https://github.com/coelacanth7/discover_mix_frontend_challenge.git
+cd discover_mix_frontend_challenge
+npm install
+npm run start
+```
 
 ### Implementation
 
@@ -22,7 +33,7 @@ For making AJAX calls I used the built in FetchAPI built into vanilla JavaScript
 
 ### Reflection
 
-I feel like overall the project was a success. I got a lot done in approximately five hours.
+I feel like overall the project was a success. I got a lot done in five hours.
 
 My biggest challenge working with Google's Material design concepts. I have never worked with these concepts so I spent the first hour researching the definition and a good implementation. Overall if I spent more time on this project I would like to implement more of these principles and components.
 
