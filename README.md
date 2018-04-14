@@ -12,7 +12,7 @@ View it live on Heroku:
 
 https://fierce-reaches-10362.herokuapp.com/
 
-Or, assuming node is installed run these in order:
+Or, assuming node and git is installed run these in order:
 
 ```
 git clone https://github.com/coelacanth7/discover_mix_frontend_challenge.git
