@@ -11,7 +11,7 @@ class Event extends Component {
 	}
 
 	componentWillMount() {
-		fetch("http://www.mocky.io/v2/5ad17cb23000006400534c0b")
+		fetch("https://www.mocky.io/v2/5ad17cb23000006400534c0b")
 			.then(response => response.json())
 			.then(data => {
 				this.setState({ _event: data });

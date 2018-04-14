@@ -13,7 +13,7 @@ class Home extends Component {
 	}
 
 	componentWillMount() {
-		fetch("http://www.mocky.io/v2/5ad175603000006500534bf6")
+		fetch("https://www.mocky.io/v2/5ad175603000006500534bf6")
 			.then(response => response.json())
 			.then(data => {
 				let _events = data.map((e, i) => <EventCard key={i} event={e} />);
