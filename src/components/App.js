@@ -31,7 +31,7 @@ class App extends Component {
 				<AppBar>
 					<Toolbar>
 						<Typography variant="title" color="inherit">
-							HELLO DISCOVER MIXS
+							HELLO DISCOVER MIXs
 						</Typography>
 					</Toolbar>
 				</AppBar>
@@ -47,9 +47,10 @@ class App extends Component {
 				</Router>
 
 				<footer>
-					<hr />
 					<Typography varient="headline">
-						Created by <a href="http://gregoryalford.com/">Gregory Alford</a>
+						<span id="footer-padding">
+							Created by <a href="http://gregoryalford.com/">Gregory Alford</a>
+						</span>
 					</Typography>
 				</footer>
 			</MuiThemeProvider>
