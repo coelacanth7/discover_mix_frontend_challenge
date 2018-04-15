@@ -39,4 +39,4 @@ My biggest challenge working with Google's Material design concepts. I have neve
 
 My biggest success is getting a fully functional React app deployed in just a few hours with no bugs.
 
-If I spent more time I would improve the CSS and make the site more interesting to look at. I would do some image optimization, The images are larger than necessary and are taking too long to load. I would also like to add a more functional navigation bar. This is difficult to not do, but I understand the need for a metric to measure developer progress.
+If I spent more time I would improve the CSS and make the site more interesting to look at. I would do some image optimization, The images are larger than necessary and are taking too long to load. I would also like to add a more functional navigation bar. Also automated testing would be nice. This is difficult to not do, but I understand the need for a metric to measure developer progress.
